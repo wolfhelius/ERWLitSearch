@@ -1,11 +1,12 @@
+```
 python3 -m venv venv
 source venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
+```
 
 
-"""
-Analyze ERW Literature
+# Analyze ERW Literature
 
 This project analyzes ERW literature PDFs to categorize and extract key information
 for enhanced rock weathering (ERW) literature review.
@@ -29,4 +30,3 @@ Introduction and background:
 * Jenny and Anderson papers
 * => leads to gap, we need to analyze
 * Analysis of Cr(VI) work
-"""
